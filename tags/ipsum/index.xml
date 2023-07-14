@@ -10,14 +10,14 @@
       <link>https://hsjeong-dev.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 20 Jun 2022 22:00:00 +0000</lastBuildDate><atom:link href="https://hsjeong-dev.github.io/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hsjeong-dev.github.io/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lorem ipsum</title>
+      <title>Lorem asdipsum</title>
       <link>https://hsjeong-dev.github.io/post/test/</link>
-      <pubDate>Mon, 20 Jun 2022 22:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://hsjeong-dev.github.io/post/test/</guid>
-      <description>asdlkjkljkljkla</description>
+      <description>&amp;lt;!doctype html&amp;gt; &amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; </description>
     </item>
     
   </channel>
