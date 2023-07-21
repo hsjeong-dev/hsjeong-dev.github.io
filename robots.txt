@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://hsjeong-dev.github.io/sitemap.xml
