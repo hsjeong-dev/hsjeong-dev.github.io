@@ -2,10 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hsjeong-dev.github.io/post/mark-down/test/</loc>
+    <lastmod>2023-07-27T15:15:00+09:00</lastmod>
+  </url><url>
     <loc>https://hsjeong-dev.github.io/categories/</loc>
+    <lastmod>2023-07-27T15:15:00+09:00</lastmod>
   </url><url>
     <loc>https://hsjeong-dev.github.io/</loc>
+    <lastmod>2023-07-27T15:15:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hsjeong-dev.github.io/tags/markdown/</loc>
+    <lastmod>2023-07-27T15:15:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hsjeong-dev.github.io/categories/markdown/</loc>
+    <lastmod>2023-07-27T15:15:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hsjeong-dev.github.io/post/</loc>
+    <lastmod>2023-07-27T15:15:00+09:00</lastmod>
   </url><url>
     <loc>https://hsjeong-dev.github.io/tags/</loc>
+    <lastmod>2023-07-27T15:15:00+09:00</lastmod>
+  </url><url>
+    <loc>https://hsjeong-dev.github.io/tags/first/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://hsjeong-dev.github.io/post/mark-down/test1/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
 </urlset>

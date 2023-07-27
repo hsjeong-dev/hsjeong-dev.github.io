@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Devlog</title>
-    <link>https://hsjeong-dev.github.io/</link>
-    <description>Recent content on Devlog</description>
+    <title>first on Devlog</title>
+    <link>https://hsjeong-dev.github.io/tags/first/</link>
+    <description>Recent content in first on Devlog</description>
     <image>
       <title>Devlog</title>
       <url>https://hsjeong-dev.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,16 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 27 Jul 2023 15:15:00 +0900</lastBuildDate><atom:link href="https://hsjeong-dev.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://hsjeong-dev.github.io/post/mark-down/test/</link>
-      <pubDate>Thu, 27 Jul 2023 15:15:00 +0900</pubDate>
-      
-      <guid>https://hsjeong-dev.github.io/post/mark-down/test/</guid>
-      <description>Lorem Ipsum Dolor Si Amet</description>
-    </item>
-    
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://hsjeong-dev.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
       <link>https://hsjeong-dev.github.io/post/mark-down/test1/</link>
