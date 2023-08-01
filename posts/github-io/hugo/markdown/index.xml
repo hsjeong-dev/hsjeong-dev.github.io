@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Markdown on Devlog</title>
-    <link>https://hsjeong-dev.github.io/categories/markdown/</link>
+    <link>https://hsjeong-dev.github.io/posts/github-io/hugo/markdown/</link>
     <description>Recent content in Markdown on Devlog</description>
     <image>
       <title>Devlog</title>
@@ -10,8 +10,7 @@
       <link>https://hsjeong-dev.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko-kr</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://hsjeong-dev.github.io/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-kr</language><atom:link href="https://hsjeong-dev.github.io/posts/github-io/hugo/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Hugo / Markdown] 문법 사용법</title>
       <link>https://hsjeong-dev.github.io/posts/github-io/hugo/markdown/markdown-syntax/</link>
