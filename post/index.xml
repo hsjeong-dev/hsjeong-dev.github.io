@@ -30,5 +30,14 @@
       <description>Desc Text.</description>
     </item>
     
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://hsjeong-dev.github.io/post/mark-down/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsjeong-dev.github.io/post/mark-down/markdown-syntax/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    
   </channel>
 </rss>
